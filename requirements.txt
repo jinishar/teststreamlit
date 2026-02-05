@@ -1,5 +1,9 @@
 streamlit
 pandas
-plotly
 numpy
+matplotlib
+plotly
 geopandas
+shapely
+fiona
+pyproj
